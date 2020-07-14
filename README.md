@@ -1,2 +1,2 @@
-# SQL-Queries
-Examples of SQL queries 
+# Data Science- Portfolio
+
