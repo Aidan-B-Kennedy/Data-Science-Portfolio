@@ -1,0 +1,19 @@
+The purpose of this project is to demonstrate applied machine learning in the retail forecasting domain. 
+
+
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+from matplotlib.gridspec import GridSpec
+import seaborn as sns
+from scipy import stats
+from scipy.special import boxcox1p
+
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+
+import warnings
+warnings.filterwarnings("ignore") # ignoring annoying warnings
+
+from pandasql import sqldf
+pysqldf = lambda q: sqldf(q, globals())
