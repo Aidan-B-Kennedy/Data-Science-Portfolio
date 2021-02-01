@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository displays a portfolio of data science projects I've completed for academic and instructional benefit. Presented in the form of Jupyter Notebooks.
+This repository displays a portfolio of data science and analytics projects I've completed for demosntration and instructional purposes. Presented in the form of Jupyter Notebooks.
 
 _Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
