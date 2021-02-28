@@ -1,5 +1,4 @@
-# Python/STAN Implementation of Multiplicative Marketing Mix Model
-The methodology of this project is based on [this paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf) by Google, but is applied to a more complicated, real-world setting, where 1) there are 13 media channels and 46 control variables; 2) models are built in a stacked way.    
+## Python/STAN Implementation of Multiplicative Marketing Mix Model
      
 # 1. Introduction
 Marketing Mix Model,  or  Media Mix Model (MMM) is used by advertisers to measure how their media spending contributes to sales, so as to optimize future budget allocation. **ROAS** (return on ad spend) and **mROAS** (marginal ROAS) are the key metrics to look at. High ROAS indicates the channel is efficient, high mROAS means increasing spend in the channel will yield a high return based on current spending level.   
