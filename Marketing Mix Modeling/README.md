@@ -531,6 +531,7 @@ ROAS shows the historic channel efficiency, how much sales $1 channel spend has 
 - TV: Yields both high contribution and ROAS. Followed by insert.
 - Online Dsiplay: Contribution volume (5.24%) is not large, but has a high ROAS (4.83)
 - SEM:Low ROAS (2.06) despite high contribution. 
+
 **mROAS**    
 High mROAS: TV (16.40), insert (9.35), radio (7.00), online display (6.58)
 Marginal ROAS indicates the future potential of the channel, how much sales will the next $1 spend on this channel bring. The idea of budget optimization is moving money from low mROAS channels to high mROAS channels.  
