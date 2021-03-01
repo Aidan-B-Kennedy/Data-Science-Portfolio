@@ -372,7 +372,7 @@ In the previous model fitting step, parameters of the log-log model have been fo
 ![mmm_stan_decompose_contrib1](https://tva1.sinaimg.cn/large/0081Kckwly1gl7wmb2h4xj30f502ymx2.jpg)    
 Plug them into the multiplicative model:    
 ![mmm_stan_decompose_contrib2](https://tva1.sinaimg.cn/large/0081Kckwly1gl7wmang1vj30b403ajr9.jpg)    
-![mmm_stan_decompose_contrib3](https://tva1.sinaimg.cn/large/0081Kckwly1gl7wmabfp4j30j309wwem.jpg)    
+   
 
 
 ```python
