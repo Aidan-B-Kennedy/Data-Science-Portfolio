@@ -536,5 +536,7 @@ ROAS shows the historic channel efficiency, how much sales $1 channel spend has 
 High mROAS: TV (16.40), insert (9.35), radio (7.00), online display (6.58)
 Marginal ROAS indicates the future potential of the channel, how much sales will the next $1 spend on this channel bring. The idea of budget optimization is moving money from low mROAS channels to high mROAS channels.  
 ![media channels roas mroas plot](https://tva1.sinaimg.cn/large/0081Kckwly1gl7xrzbo4bj30ys0hd3zj.jpg)    
+Since TV, insert, radio, insert yield high mROAS, SEM has a low mROAS, part of SEM budget will be reallocated to TV, insert, radio, insert.
+
 Note: trivial channels: newspaper, digital audio, digital video, social (spending/impression too small to be qualified, so that their results are not trustworthy).    
 
