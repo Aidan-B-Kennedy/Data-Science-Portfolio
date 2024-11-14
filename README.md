@@ -1,9 +1,9 @@
 # Data Science Portfolio
-This repository displays a portfolio of data science and analytics projects I've completed for demosntration and instructional purposes. Presented in the form of Jupyter Notebooks.
+This repository displays a portfolio of data science and analytics projects I've completed for demonstration and instructional purposes. Presented in the form of Jupyter Notebooks.
 
 _Data used in the projects is for demonstration purposes only._
 
-_If links in the contents section fail to launch try viewing portfolio in a different browser._
+_If links in the contents section fail to launch, try viewing portfolio in a different browser._
 
 ## Contents
 - ### Machine Learning	
